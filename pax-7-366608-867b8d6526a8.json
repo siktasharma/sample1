@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pax-7-366608",
+  "private_key_id": "867b8d6526a8a3b5102ceba7a99cc7f9f7eda370",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDa72YQb/t8T8cG\nuWk1Er/BlhCTr79aNPhu2nQBG8iQL3ptNp976nZxw176trSqwlKvWe1X+9T/jdbu\nzuUexrHJKtMhuugE41K7tKR8Hw8baADYZnOH1C8QFTkeIV11hrWKNnmhTX0EBdNL\n2m5zIW0Pl/966xztDaPHgGcVZQa5yuOYgrd11n2nXlyzIT3i2mULGdQVcL/EtAg3\nkNgQGLwcJK7BF2ifZcicRG1WkMl7edoKoeGNuBnBdE1UKu9kTB/2aL/+BG3YQSsi\nRaEmflZ/IGviYtrC6gc7V0IPClK2lfkFHVpWSbcMHed41/K7DUtWBSSvNFwnaJB3\nE/rMsmmRAgMBAAECggEABM4Q67bEH96nBpMWfQSz/VgBdcxQoyEwe/ZYFMIlrQxt\ntRc9eXxpgburn6MCOhEuZrd5ibR24JjzU6W/dOUgIm3J2R6qAu7I8mJXjdB8sLmf\n8x/kfzb9RW7Bzyh6TZ8EPaFOcBIsS+SjgNxYD4zMlkqxX7g97UdJsJI1MPdY+3DZ\nvugkqkg+ZLwT1hkt6ZyhlVdj5XkpXWunKulWBTXPYklaj1ELCTvxbxUiAwxe1DMB\nY90gPGOR9FxZL/LFsI1qddVDX6/+RLtoe0TjX26M9Y0b2GUlhAdPKUOKNfPutWBw\nXCvEszck/nQeN5n4hjmQlc+xvRTWVQrHxBMzOjVHcQKBgQD7QIAdP3TCEwT4dhwZ\n40cM2uunqwJQxrmvnWOo5wmTpUsUdiFMnAnBvnvbrO9PUzNpG5T1dpnhsnn1PL8L\nLklGPjT7Ztj3Vq1btBz+Pu5bGXo6HlqMCm55D/HS/bSsC6PMz3zwhhgEKDjOV+Zm\nlyP74TIMj8omKTXuUUh9MeM19QKBgQDfEo6S5hFmr2DTF0jkI6s4CZAFsut3X1T0\nLaKqZ+rr7r02Q+mlqfS8lU1yXVOKyVIVS6D8q3jt+GEfBkhrH82/7Upk9nHGO4Jj\noSydoHEfCPeFkNV6tfZy9GSjMEc8PN3PjKNItg7lNmZuq483+nwP6JU8aXjo8oyr\nA2QHO3BHrQKBgA61xwpvVamrLWZSm/CUEuvYwWVOqNML34E9qMERzci8K7ol9Gsk\n05lpSp0g8d3mFCN6Pu1kJTxGk8dc6B6Cdj3LlJSHf/pzM7EjyXLFQnVI95QBhPGg\nBrnFyjW9Lt/Hyq5KE5mNcEiGBlVmZhHplWzA0YpUvNQhI4wxbBoQWqolAoGBAIa9\nzMTKl0QxNwkKjYrQSMHGdOocUsJ+IPCFCDZqIqp0QHIgv2bDrAKlJGyqFqZESIJ4\ndjtoz9jeKLv2rZOXWE5P5Jnrinm0xGOtnSdxHCMk5W4WN/yxILX7DTbNGJo4IbsW\nNiLbZU/qdiDvG8kyUfHCCTK+erwqlfFOUQNVUdLZAoGAe7pwQrCdsR24Qs2nhnPY\ndFcv3vyu220kOzp03Hp5fwwU2AcNTRbLwEj5LjhZjqhKuP+e0U9EBJjafzv4SHlG\nhXaYWnOA94Y0ladwpkp2C+6i9W+hCfmrW/hyBoEawp5JRtNxCFgsWlWpFk3fnw89\nrTmZiKwBj2/Y8Wf9IfqdDY4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "netflixproduction-user-sikta@pax-7-366608.iam.gserviceaccount.com",
+  "client_id": "105135762683789746711",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/netflixproduction-user-sikta%40pax-7-366608.iam.gserviceaccount.com"
+}
